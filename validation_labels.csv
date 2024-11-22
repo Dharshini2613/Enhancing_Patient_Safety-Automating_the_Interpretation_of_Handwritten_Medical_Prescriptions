@@ -1,0 +1,781 @@
+IMAGE,MEDICINE_NAME,GENERIC_NAME
+0.png,Aceta,Paracetamol
+1.png,Aceta,Paracetamol
+2.png,Aceta,Paracetamol
+3.png,Aceta,Paracetamol
+4.png,Aceta,Paracetamol
+5.png,Aceta,Paracetamol
+6.png,Aceta,Paracetamol
+7.png,Aceta,Paracetamol
+8.png,Aceta,Paracetamol
+9.png,Aceta,Paracetamol
+10.png,Ace,Paracetamol
+11.png,Ace,Paracetamol
+12.png,Ace,Paracetamol
+13.png,Ace,Paracetamol
+14.png,Ace,Paracetamol
+15.png,Ace,Paracetamol
+16.png,Ace,Paracetamol
+17.png,Ace,Paracetamol
+18.png,Ace,Paracetamol
+19.png,Ace,Paracetamol
+20.png,Alatrol,Cetirizine Hydrochloride
+21.png,Alatrol,Cetirizine Hydrochloride
+22.png,Alatrol,Cetirizine Hydrochloride
+23.png,Alatrol,Cetirizine Hydrochloride
+24.png,Alatrol,Cetirizine Hydrochloride
+25.png,Alatrol,Cetirizine Hydrochloride
+26.png,Alatrol,Cetirizine Hydrochloride
+27.png,Alatrol,Cetirizine Hydrochloride
+28.png,Alatrol,Cetirizine Hydrochloride
+29.png,Alatrol,Cetirizine Hydrochloride
+30.png,Amodis,Metronidazole
+31.png,Amodis,Metronidazole
+32.png,Amodis,Metronidazole
+33.png,Amodis,Metronidazole
+34.png,Amodis,Metronidazole
+35.png,Amodis,Metronidazole
+36.png,Amodis,Metronidazole
+37.png,Amodis,Metronidazole
+38.png,Amodis,Metronidazole
+39.png,Amodis,Metronidazole
+40.png,Atrizin,Cetirizine Hydrochloride
+41.png,Atrizin,Cetirizine Hydrochloride
+42.png,Atrizin,Cetirizine Hydrochloride
+43.png,Atrizin,Cetirizine Hydrochloride
+44.png,Atrizin,Cetirizine Hydrochloride
+45.png,Atrizin,Cetirizine Hydrochloride
+46.png,Atrizin,Cetirizine Hydrochloride
+47.png,Atrizin,Cetirizine Hydrochloride
+48.png,Atrizin,Cetirizine Hydrochloride
+49.png,Atrizin,Cetirizine Hydrochloride
+50.png,Axodin,Fexofenadine Hydrochloride
+51.png,Axodin,Fexofenadine Hydrochloride
+52.png,Axodin,Fexofenadine Hydrochloride
+53.png,Axodin,Fexofenadine Hydrochloride
+54.png,Axodin,Fexofenadine Hydrochloride
+55.png,Axodin,Fexofenadine Hydrochloride
+56.png,Axodin,Fexofenadine Hydrochloride
+57.png,Axodin,Fexofenadine Hydrochloride
+58.png,Axodin,Fexofenadine Hydrochloride
+59.png,Axodin,Fexofenadine Hydrochloride
+60.png,Azithrocin,Azithromycin Dihydrate
+61.png,Azithrocin,Azithromycin Dihydrate
+62.png,Azithrocin,Azithromycin Dihydrate
+63.png,Azithrocin,Azithromycin Dihydrate
+64.png,Azithrocin,Azithromycin Dihydrate
+65.png,Azithrocin,Azithromycin Dihydrate
+66.png,Azithrocin,Azithromycin Dihydrate
+67.png,Azithrocin,Azithromycin Dihydrate
+68.png,Azithrocin,Azithromycin Dihydrate
+69.png,Azithrocin,Azithromycin Dihydrate
+70.png,Azyth,Azithromycin Dihydrate
+71.png,Azyth,Azithromycin Dihydrate
+72.png,Azyth,Azithromycin Dihydrate
+73.png,Azyth,Azithromycin Dihydrate
+74.png,Azyth,Azithromycin Dihydrate
+75.png,Azyth,Azithromycin Dihydrate
+76.png,Azyth,Azithromycin Dihydrate
+77.png,Azyth,Azithromycin Dihydrate
+78.png,Azyth,Azithromycin Dihydrate
+79.png,Azyth,Azithromycin Dihydrate
+80.png,Az,Azithromycin Dihydrate
+81.png,Az,Azithromycin Dihydrate
+82.png,Az,Azithromycin Dihydrate
+83.png,Az,Azithromycin Dihydrate
+84.png,Az,Azithromycin Dihydrate
+85.png,Az,Azithromycin Dihydrate
+86.png,Az,Azithromycin Dihydrate
+87.png,Az,Azithromycin Dihydrate
+88.png,Az,Azithromycin Dihydrate
+89.png,Az,Azithromycin Dihydrate
+90.png,Bacaid,Baclofen
+91.png,Bacaid,Baclofen
+92.png,Bacaid,Baclofen
+93.png,Bacaid,Baclofen
+94.png,Bacaid,Baclofen
+95.png,Bacaid,Baclofen
+96.png,Bacaid,Baclofen
+97.png,Bacaid,Baclofen
+98.png,Bacaid,Baclofen
+99.png,Bacaid,Baclofen
+100.png,Backtone,Baclofen
+101.png,Backtone,Baclofen
+102.png,Backtone,Baclofen
+103.png,Backtone,Baclofen
+104.png,Backtone,Baclofen
+105.png,Backtone,Baclofen
+106.png,Backtone,Baclofen
+107.png,Backtone,Baclofen
+108.png,Backtone,Baclofen
+109.png,Backtone,Baclofen
+110.png,Baclofen,Baclofen
+111.png,Baclofen,Baclofen
+112.png,Baclofen,Baclofen
+113.png,Baclofen,Baclofen
+114.png,Baclofen,Baclofen
+115.png,Baclofen,Baclofen
+116.png,Baclofen,Baclofen
+117.png,Baclofen,Baclofen
+118.png,Baclofen,Baclofen
+119.png,Baclofen,Baclofen
+120.png,Baclon,Baclofen
+121.png,Baclon,Baclofen
+122.png,Baclon,Baclofen
+123.png,Baclon,Baclofen
+124.png,Baclon,Baclofen
+125.png,Baclon,Baclofen
+126.png,Baclon,Baclofen
+127.png,Baclon,Baclofen
+128.png,Baclon,Baclofen
+129.png,Baclon,Baclofen
+130.png,Bacmax,Baclofen
+131.png,Bacmax,Baclofen
+132.png,Bacmax,Baclofen
+133.png,Bacmax,Baclofen
+134.png,Bacmax,Baclofen
+135.png,Bacmax,Baclofen
+136.png,Bacmax,Baclofen
+137.png,Bacmax,Baclofen
+138.png,Bacmax,Baclofen
+139.png,Bacmax,Baclofen
+140.png,Beklo,Baclofen
+141.png,Beklo,Baclofen
+142.png,Beklo,Baclofen
+143.png,Beklo,Baclofen
+144.png,Beklo,Baclofen
+145.png,Beklo,Baclofen
+146.png,Beklo,Baclofen
+147.png,Beklo,Baclofen
+148.png,Beklo,Baclofen
+149.png,Beklo,Baclofen
+150.png,Bicozin,Vitamin B Complex + Zinc
+151.png,Bicozin,Vitamin B Complex + Zinc
+152.png,Bicozin,Vitamin B Complex + Zinc
+153.png,Bicozin,Vitamin B Complex + Zinc
+154.png,Bicozin,Vitamin B Complex + Zinc
+155.png,Bicozin,Vitamin B Complex + Zinc
+156.png,Bicozin,Vitamin B Complex + Zinc
+157.png,Bicozin,Vitamin B Complex + Zinc
+158.png,Bicozin,Vitamin B Complex + Zinc
+159.png,Bicozin,Vitamin B Complex + Zinc
+160.png,Canazole,Fluconazole
+161.png,Canazole,Fluconazole
+162.png,Canazole,Fluconazole
+163.png,Canazole,Fluconazole
+164.png,Canazole,Fluconazole
+165.png,Canazole,Fluconazole
+166.png,Canazole,Fluconazole
+167.png,Canazole,Fluconazole
+168.png,Canazole,Fluconazole
+169.png,Canazole,Fluconazole
+170.png,Candinil,Fluconazole
+171.png,Candinil,Fluconazole
+172.png,Candinil,Fluconazole
+173.png,Candinil,Fluconazole
+174.png,Candinil,Fluconazole
+175.png,Candinil,Fluconazole
+176.png,Candinil,Fluconazole
+177.png,Candinil,Fluconazole
+178.png,Candinil,Fluconazole
+179.png,Candinil,Fluconazole
+180.png,Cetisoft,Cetirizine Hydrochloride
+181.png,Cetisoft,Cetirizine Hydrochloride
+182.png,Cetisoft,Cetirizine Hydrochloride
+183.png,Cetisoft,Cetirizine Hydrochloride
+184.png,Cetisoft,Cetirizine Hydrochloride
+185.png,Cetisoft,Cetirizine Hydrochloride
+186.png,Cetisoft,Cetirizine Hydrochloride
+187.png,Cetisoft,Cetirizine Hydrochloride
+188.png,Cetisoft,Cetirizine Hydrochloride
+189.png,Cetisoft,Cetirizine Hydrochloride
+190.png,Conaz,Fluconazole
+191.png,Conaz,Fluconazole
+192.png,Conaz,Fluconazole
+193.png,Conaz,Fluconazole
+194.png,Conaz,Fluconazole
+195.png,Conaz,Fluconazole
+196.png,Conaz,Fluconazole
+197.png,Conaz,Fluconazole
+198.png,Conaz,Fluconazole
+199.png,Conaz,Fluconazole
+200.png,Dancel,Ketoconazole (Shampoo)
+201.png,Dancel,Ketoconazole (Shampoo)
+202.png,Dancel,Ketoconazole (Shampoo)
+203.png,Dancel,Ketoconazole (Shampoo)
+204.png,Dancel,Ketoconazole (Shampoo)
+205.png,Dancel,Ketoconazole (Shampoo)
+206.png,Dancel,Ketoconazole (Shampoo)
+207.png,Dancel,Ketoconazole (Shampoo)
+208.png,Dancel,Ketoconazole (Shampoo)
+209.png,Dancel,Ketoconazole (Shampoo)
+210.png,Denixil,Clonazepam
+211.png,Denixil,Clonazepam
+212.png,Denixil,Clonazepam
+213.png,Denixil,Clonazepam
+214.png,Denixil,Clonazepam
+215.png,Denixil,Clonazepam
+216.png,Denixil,Clonazepam
+217.png,Denixil,Clonazepam
+218.png,Denixil,Clonazepam
+219.png,Denixil,Clonazepam
+220.png,Diflu,Fluconazole
+221.png,Diflu,Fluconazole
+222.png,Diflu,Fluconazole
+223.png,Diflu,Fluconazole
+224.png,Diflu,Fluconazole
+225.png,Diflu,Fluconazole
+226.png,Diflu,Fluconazole
+227.png,Diflu,Fluconazole
+228.png,Diflu,Fluconazole
+229.png,Diflu,Fluconazole
+230.png,Dinafex,Fexofenadine Hydrochloride
+231.png,Dinafex,Fexofenadine Hydrochloride
+232.png,Dinafex,Fexofenadine Hydrochloride
+233.png,Dinafex,Fexofenadine Hydrochloride
+234.png,Dinafex,Fexofenadine Hydrochloride
+235.png,Dinafex,Fexofenadine Hydrochloride
+236.png,Dinafex,Fexofenadine Hydrochloride
+237.png,Dinafex,Fexofenadine Hydrochloride
+238.png,Dinafex,Fexofenadine Hydrochloride
+239.png,Dinafex,Fexofenadine Hydrochloride
+240.png,Disopan,Clonazepam
+241.png,Disopan,Clonazepam
+242.png,Disopan,Clonazepam
+243.png,Disopan,Clonazepam
+244.png,Disopan,Clonazepam
+245.png,Disopan,Clonazepam
+246.png,Disopan,Clonazepam
+247.png,Disopan,Clonazepam
+248.png,Disopan,Clonazepam
+249.png,Disopan,Clonazepam
+250.png,Esonix,Esomeprazole
+251.png,Esonix,Esomeprazole
+252.png,Esonix,Esomeprazole
+253.png,Esonix,Esomeprazole
+254.png,Esonix,Esomeprazole
+255.png,Esonix,Esomeprazole
+256.png,Esonix,Esomeprazole
+257.png,Esonix,Esomeprazole
+258.png,Esonix,Esomeprazole
+259.png,Esonix,Esomeprazole
+260.png,Esoral,Esomeprazole
+261.png,Esoral,Esomeprazole
+262.png,Esoral,Esomeprazole
+263.png,Esoral,Esomeprazole
+264.png,Esoral,Esomeprazole
+265.png,Esoral,Esomeprazole
+266.png,Esoral,Esomeprazole
+267.png,Esoral,Esomeprazole
+268.png,Esoral,Esomeprazole
+269.png,Esoral,Esomeprazole
+270.png,Etizin,Cetirizine Hydrochloride
+271.png,Etizin,Cetirizine Hydrochloride
+272.png,Etizin,Cetirizine Hydrochloride
+273.png,Etizin,Cetirizine Hydrochloride
+274.png,Etizin,Cetirizine Hydrochloride
+275.png,Etizin,Cetirizine Hydrochloride
+276.png,Etizin,Cetirizine Hydrochloride
+277.png,Etizin,Cetirizine Hydrochloride
+278.png,Etizin,Cetirizine Hydrochloride
+279.png,Etizin,Cetirizine Hydrochloride
+280.png,Exium,Esomeprazole
+281.png,Exium,Esomeprazole
+282.png,Exium,Esomeprazole
+283.png,Exium,Esomeprazole
+284.png,Exium,Esomeprazole
+285.png,Exium,Esomeprazole
+286.png,Exium,Esomeprazole
+287.png,Exium,Esomeprazole
+288.png,Exium,Esomeprazole
+289.png,Exium,Esomeprazole
+290.png,Fenadin,Fexofenadine Hydrochloride
+291.png,Fenadin,Fexofenadine Hydrochloride
+292.png,Fenadin,Fexofenadine Hydrochloride
+293.png,Fenadin,Fexofenadine Hydrochloride
+294.png,Fenadin,Fexofenadine Hydrochloride
+295.png,Fenadin,Fexofenadine Hydrochloride
+296.png,Fenadin,Fexofenadine Hydrochloride
+297.png,Fenadin,Fexofenadine Hydrochloride
+298.png,Fenadin,Fexofenadine Hydrochloride
+299.png,Fenadin,Fexofenadine Hydrochloride
+300.png,Fexofast,Fexofenadine Hydrochloride
+301.png,Fexofast,Fexofenadine Hydrochloride
+302.png,Fexofast,Fexofenadine Hydrochloride
+303.png,Fexofast,Fexofenadine Hydrochloride
+304.png,Fexofast,Fexofenadine Hydrochloride
+305.png,Fexofast,Fexofenadine Hydrochloride
+306.png,Fexofast,Fexofenadine Hydrochloride
+307.png,Fexofast,Fexofenadine Hydrochloride
+308.png,Fexofast,Fexofenadine Hydrochloride
+309.png,Fexofast,Fexofenadine Hydrochloride
+310.png,Fexo,Fexofenadine Hydrochloride
+311.png,Fexo,Fexofenadine Hydrochloride
+312.png,Fexo,Fexofenadine Hydrochloride
+313.png,Fexo,Fexofenadine Hydrochloride
+314.png,Fexo,Fexofenadine Hydrochloride
+315.png,Fexo,Fexofenadine Hydrochloride
+316.png,Fexo,Fexofenadine Hydrochloride
+317.png,Fexo,Fexofenadine Hydrochloride
+318.png,Fexo,Fexofenadine Hydrochloride
+319.png,Fexo,Fexofenadine Hydrochloride
+320.png,Filmet,Metronidazole
+321.png,Filmet,Metronidazole
+322.png,Filmet,Metronidazole
+323.png,Filmet,Metronidazole
+324.png,Filmet,Metronidazole
+325.png,Filmet,Metronidazole
+326.png,Filmet,Metronidazole
+327.png,Filmet,Metronidazole
+328.png,Filmet,Metronidazole
+329.png,Filmet,Metronidazole
+330.png,Fixal,Fexofenadine Hydrochloride
+331.png,Fixal,Fexofenadine Hydrochloride
+332.png,Fixal,Fexofenadine Hydrochloride
+333.png,Fixal,Fexofenadine Hydrochloride
+334.png,Fixal,Fexofenadine Hydrochloride
+335.png,Fixal,Fexofenadine Hydrochloride
+336.png,Fixal,Fexofenadine Hydrochloride
+337.png,Fixal,Fexofenadine Hydrochloride
+338.png,Fixal,Fexofenadine Hydrochloride
+339.png,Fixal,Fexofenadine Hydrochloride
+340.png,Flamyd,Metronidazole
+341.png,Flamyd,Metronidazole
+342.png,Flamyd,Metronidazole
+343.png,Flamyd,Metronidazole
+344.png,Flamyd,Metronidazole
+345.png,Flamyd,Metronidazole
+346.png,Flamyd,Metronidazole
+347.png,Flamyd,Metronidazole
+348.png,Flamyd,Metronidazole
+349.png,Flamyd,Metronidazole
+350.png,Flexibac,Baclofen
+351.png,Flexibac,Baclofen
+352.png,Flexibac,Baclofen
+353.png,Flexibac,Baclofen
+354.png,Flexibac,Baclofen
+355.png,Flexibac,Baclofen
+356.png,Flexibac,Baclofen
+357.png,Flexibac,Baclofen
+358.png,Flexibac,Baclofen
+359.png,Flexibac,Baclofen
+360.png,Flexilax,Baclofen
+361.png,Flexilax,Baclofen
+362.png,Flexilax,Baclofen
+363.png,Flexilax,Baclofen
+364.png,Flexilax,Baclofen
+365.png,Flexilax,Baclofen
+366.png,Flexilax,Baclofen
+367.png,Flexilax,Baclofen
+368.png,Flexilax,Baclofen
+369.png,Flexilax,Baclofen
+370.png,Flugal,Fluconazole
+371.png,Flugal,Fluconazole
+372.png,Flugal,Fluconazole
+373.png,Flugal,Fluconazole
+374.png,Flugal,Fluconazole
+375.png,Flugal,Fluconazole
+376.png,Flugal,Fluconazole
+377.png,Flugal,Fluconazole
+378.png,Flugal,Fluconazole
+379.png,Flugal,Fluconazole
+380.png,Ketocon,Ketoconazole (Shampoo)
+381.png,Ketocon,Ketoconazole (Shampoo)
+382.png,Ketocon,Ketoconazole (Shampoo)
+383.png,Ketocon,Ketoconazole (Shampoo)
+384.png,Ketocon,Ketoconazole (Shampoo)
+385.png,Ketocon,Ketoconazole (Shampoo)
+386.png,Ketocon,Ketoconazole (Shampoo)
+387.png,Ketocon,Ketoconazole (Shampoo)
+388.png,Ketocon,Ketoconazole (Shampoo)
+389.png,Ketocon,Ketoconazole (Shampoo)
+390.png,Ketoral,Ketoconazole (Tablet)
+391.png,Ketoral,Ketoconazole (Tablet)
+392.png,Ketoral,Ketoconazole (Tablet)
+393.png,Ketoral,Ketoconazole (Tablet)
+394.png,Ketoral,Ketoconazole (Tablet)
+395.png,Ketoral,Ketoconazole (Tablet)
+396.png,Ketoral,Ketoconazole (Tablet)
+397.png,Ketoral,Ketoconazole (Tablet)
+398.png,Ketoral,Ketoconazole (Tablet)
+399.png,Ketoral,Ketoconazole (Tablet)
+400.png,Ketotab,Ketoconazole (Tablet)
+401.png,Ketotab,Ketoconazole (Tablet)
+402.png,Ketotab,Ketoconazole (Tablet)
+403.png,Ketotab,Ketoconazole (Tablet)
+404.png,Ketotab,Ketoconazole (Tablet)
+405.png,Ketotab,Ketoconazole (Tablet)
+406.png,Ketotab,Ketoconazole (Tablet)
+407.png,Ketotab,Ketoconazole (Tablet)
+408.png,Ketotab,Ketoconazole (Tablet)
+409.png,Ketotab,Ketoconazole (Tablet)
+410.png,Ketozol,Ketoconazole (Shampoo)
+411.png,Ketozol,Ketoconazole (Shampoo)
+412.png,Ketozol,Ketoconazole (Shampoo)
+413.png,Ketozol,Ketoconazole (Shampoo)
+414.png,Ketozol,Ketoconazole (Shampoo)
+415.png,Ketozol,Ketoconazole (Shampoo)
+416.png,Ketozol,Ketoconazole (Shampoo)
+417.png,Ketozol,Ketoconazole (Shampoo)
+418.png,Ketozol,Ketoconazole (Shampoo)
+419.png,Ketozol,Ketoconazole (Shampoo)
+420.png,Leptic,Clonazepam
+421.png,Leptic,Clonazepam
+422.png,Leptic,Clonazepam
+423.png,Leptic,Clonazepam
+424.png,Leptic,Clonazepam
+425.png,Leptic,Clonazepam
+426.png,Leptic,Clonazepam
+427.png,Leptic,Clonazepam
+428.png,Leptic,Clonazepam
+429.png,Leptic,Clonazepam
+430.png,Lucan-R,Fluconazole
+431.png,Lucan-R,Fluconazole
+432.png,Lucan-R,Fluconazole
+433.png,Lucan-R,Fluconazole
+434.png,Lucan-R,Fluconazole
+435.png,Lucan-R,Fluconazole
+436.png,Lucan-R,Fluconazole
+437.png,Lucan-R,Fluconazole
+438.png,Lucan-R,Fluconazole
+439.png,Lucan-R,Fluconazole
+440.png,Lumona,Montelukast Sodium
+441.png,Lumona,Montelukast Sodium
+442.png,Lumona,Montelukast Sodium
+443.png,Lumona,Montelukast Sodium
+444.png,Lumona,Montelukast Sodium
+445.png,Lumona,Montelukast Sodium
+446.png,Lumona,Montelukast Sodium
+447.png,Lumona,Montelukast Sodium
+448.png,Lumona,Montelukast Sodium
+449.png,Lumona,Montelukast Sodium
+450.png,M-Kast,Montelukast Sodium
+451.png,M-Kast,Montelukast Sodium
+452.png,M-Kast,Montelukast Sodium
+453.png,M-Kast,Montelukast Sodium
+454.png,M-Kast,Montelukast Sodium
+455.png,M-Kast,Montelukast Sodium
+456.png,M-Kast,Montelukast Sodium
+457.png,M-Kast,Montelukast Sodium
+458.png,M-Kast,Montelukast Sodium
+459.png,M-Kast,Montelukast Sodium
+460.png,Maxima,Esomeprazole
+461.png,Maxima,Esomeprazole
+462.png,Maxima,Esomeprazole
+463.png,Maxima,Esomeprazole
+464.png,Maxima,Esomeprazole
+465.png,Maxima,Esomeprazole
+466.png,Maxima,Esomeprazole
+467.png,Maxima,Esomeprazole
+468.png,Maxima,Esomeprazole
+469.png,Maxima,Esomeprazole
+470.png,Maxpro,Esomeprazole
+471.png,Maxpro,Esomeprazole
+472.png,Maxpro,Esomeprazole
+473.png,Maxpro,Esomeprazole
+474.png,Maxpro,Esomeprazole
+475.png,Maxpro,Esomeprazole
+476.png,Maxpro,Esomeprazole
+477.png,Maxpro,Esomeprazole
+478.png,Maxpro,Esomeprazole
+479.png,Maxpro,Esomeprazole
+480.png,Metro,Metronidazole
+481.png,Metro,Metronidazole
+482.png,Metro,Metronidazole
+483.png,Metro,Metronidazole
+484.png,Metro,Metronidazole
+485.png,Metro,Metronidazole
+486.png,Metro,Metronidazole
+487.png,Metro,Metronidazole
+488.png,Metro,Metronidazole
+489.png,Metro,Metronidazole
+490.png,Metsina,Metronidazole
+491.png,Metsina,Metronidazole
+492.png,Metsina,Metronidazole
+493.png,Metsina,Metronidazole
+494.png,Metsina,Metronidazole
+495.png,Metsina,Metronidazole
+496.png,Metsina,Metronidazole
+497.png,Metsina,Metronidazole
+498.png,Metsina,Metronidazole
+499.png,Metsina,Metronidazole
+500.png,Monas,Montelukast Sodium
+501.png,Monas,Montelukast Sodium
+502.png,Monas,Montelukast Sodium
+503.png,Monas,Montelukast Sodium
+504.png,Monas,Montelukast Sodium
+505.png,Monas,Montelukast Sodium
+506.png,Monas,Montelukast Sodium
+507.png,Monas,Montelukast Sodium
+508.png,Monas,Montelukast Sodium
+509.png,Monas,Montelukast Sodium
+510.png,Montair,Montelukast Sodium
+511.png,Montair,Montelukast Sodium
+512.png,Montair,Montelukast Sodium
+513.png,Montair,Montelukast Sodium
+514.png,Montair,Montelukast Sodium
+515.png,Montair,Montelukast Sodium
+516.png,Montair,Montelukast Sodium
+517.png,Montair,Montelukast Sodium
+518.png,Montair,Montelukast Sodium
+519.png,Montair,Montelukast Sodium
+520.png,Montene,Montelukast Sodium
+521.png,Montene,Montelukast Sodium
+522.png,Montene,Montelukast Sodium
+523.png,Montene,Montelukast Sodium
+524.png,Montene,Montelukast Sodium
+525.png,Montene,Montelukast Sodium
+526.png,Montene,Montelukast Sodium
+527.png,Montene,Montelukast Sodium
+528.png,Montene,Montelukast Sodium
+529.png,Montene,Montelukast Sodium
+530.png,Montex,Montelukast Sodium
+531.png,Montex,Montelukast Sodium
+532.png,Montex,Montelukast Sodium
+533.png,Montex,Montelukast Sodium
+534.png,Montex,Montelukast Sodium
+535.png,Montex,Montelukast Sodium
+536.png,Montex,Montelukast Sodium
+537.png,Montex,Montelukast Sodium
+538.png,Montex,Montelukast Sodium
+539.png,Montex,Montelukast Sodium
+540.png,Napa Extend,Paracetamol
+541.png,Napa Extend,Paracetamol
+542.png,Napa Extend,Paracetamol
+543.png,Napa Extend,Paracetamol
+544.png,Napa Extend,Paracetamol
+545.png,Napa Extend,Paracetamol
+546.png,Napa Extend,Paracetamol
+547.png,Napa Extend,Paracetamol
+548.png,Napa Extend,Paracetamol
+549.png,Napa Extend,Paracetamol
+550.png,Napa,Paracetamol
+551.png,Napa,Paracetamol
+552.png,Napa,Paracetamol
+553.png,Napa,Paracetamol
+554.png,Napa,Paracetamol
+555.png,Napa,Paracetamol
+556.png,Napa,Paracetamol
+557.png,Napa,Paracetamol
+558.png,Napa,Paracetamol
+559.png,Napa,Paracetamol
+560.png,Nexcap,Esomeprazole
+561.png,Nexcap,Esomeprazole
+562.png,Nexcap,Esomeprazole
+563.png,Nexcap,Esomeprazole
+564.png,Nexcap,Esomeprazole
+565.png,Nexcap,Esomeprazole
+566.png,Nexcap,Esomeprazole
+567.png,Nexcap,Esomeprazole
+568.png,Nexcap,Esomeprazole
+569.png,Nexcap,Esomeprazole
+570.png,Nexum,Esomeprazole
+571.png,Nexum,Esomeprazole
+572.png,Nexum,Esomeprazole
+573.png,Nexum,Esomeprazole
+574.png,Nexum,Esomeprazole
+575.png,Nexum,Esomeprazole
+576.png,Nexum,Esomeprazole
+577.png,Nexum,Esomeprazole
+578.png,Nexum,Esomeprazole
+579.png,Nexum,Esomeprazole
+580.png,Nidazyl,Metronidazole
+581.png,Nidazyl,Metronidazole
+582.png,Nidazyl,Metronidazole
+583.png,Nidazyl,Metronidazole
+584.png,Nidazyl,Metronidazole
+585.png,Nidazyl,Metronidazole
+586.png,Nidazyl,Metronidazole
+587.png,Nidazyl,Metronidazole
+588.png,Nidazyl,Metronidazole
+589.png,Nidazyl,Metronidazole
+590.png,Nizoder,Ketoconazole (Cream)
+591.png,Nizoder,Ketoconazole (Cream)
+592.png,Nizoder,Ketoconazole (Cream)
+593.png,Nizoder,Ketoconazole (Cream)
+594.png,Nizoder,Ketoconazole (Cream)
+595.png,Nizoder,Ketoconazole (Cream)
+596.png,Nizoder,Ketoconazole (Cream)
+597.png,Nizoder,Ketoconazole (Cream)
+598.png,Nizoder,Ketoconazole (Cream)
+599.png,Nizoder,Ketoconazole (Cream)
+600.png,Odmon,Montelukast Sodium
+601.png,Odmon,Montelukast Sodium
+602.png,Odmon,Montelukast Sodium
+603.png,Odmon,Montelukast Sodium
+604.png,Odmon,Montelukast Sodium
+605.png,Odmon,Montelukast Sodium
+606.png,Odmon,Montelukast Sodium
+607.png,Odmon,Montelukast Sodium
+608.png,Odmon,Montelukast Sodium
+609.png,Odmon,Montelukast Sodium
+610.png,Omastin,Fluconazole
+611.png,Omastin,Fluconazole
+612.png,Omastin,Fluconazole
+613.png,Omastin,Fluconazole
+614.png,Omastin,Fluconazole
+615.png,Omastin,Fluconazole
+616.png,Omastin,Fluconazole
+617.png,Omastin,Fluconazole
+618.png,Omastin,Fluconazole
+619.png,Omastin,Fluconazole
+620.png,Opton,Esomeprazole
+621.png,Opton,Esomeprazole
+622.png,Opton,Esomeprazole
+623.png,Opton,Esomeprazole
+624.png,Opton,Esomeprazole
+625.png,Opton,Esomeprazole
+626.png,Opton,Esomeprazole
+627.png,Opton,Esomeprazole
+628.png,Opton,Esomeprazole
+629.png,Opton,Esomeprazole
+630.png,Progut,Esomeprazole
+631.png,Progut,Esomeprazole
+632.png,Progut,Esomeprazole
+633.png,Progut,Esomeprazole
+634.png,Progut,Esomeprazole
+635.png,Progut,Esomeprazole
+636.png,Progut,Esomeprazole
+637.png,Progut,Esomeprazole
+638.png,Progut,Esomeprazole
+639.png,Progut,Esomeprazole
+640.png,Provair,Montelukast Sodium
+641.png,Provair,Montelukast Sodium
+642.png,Provair,Montelukast Sodium
+643.png,Provair,Montelukast Sodium
+644.png,Provair,Montelukast Sodium
+645.png,Provair,Montelukast Sodium
+646.png,Provair,Montelukast Sodium
+647.png,Provair,Montelukast Sodium
+648.png,Provair,Montelukast Sodium
+649.png,Provair,Montelukast Sodium
+650.png,Renova,Paracetamol
+651.png,Renova,Paracetamol
+652.png,Renova,Paracetamol
+653.png,Renova,Paracetamol
+654.png,Renova,Paracetamol
+655.png,Renova,Paracetamol
+656.png,Renova,Paracetamol
+657.png,Renova,Paracetamol
+658.png,Renova,Paracetamol
+659.png,Renova,Paracetamol
+660.png,Rhinil,Cetirizine Hydrochloride
+661.png,Rhinil,Cetirizine Hydrochloride
+662.png,Rhinil,Cetirizine Hydrochloride
+663.png,Rhinil,Cetirizine Hydrochloride
+664.png,Rhinil,Cetirizine Hydrochloride
+665.png,Rhinil,Cetirizine Hydrochloride
+666.png,Rhinil,Cetirizine Hydrochloride
+667.png,Rhinil,Cetirizine Hydrochloride
+668.png,Rhinil,Cetirizine Hydrochloride
+669.png,Rhinil,Cetirizine Hydrochloride
+670.png,Ritch,Fexofenadine Hydrochloride
+671.png,Ritch,Fexofenadine Hydrochloride
+672.png,Ritch,Fexofenadine Hydrochloride
+673.png,Ritch,Fexofenadine Hydrochloride
+674.png,Ritch,Fexofenadine Hydrochloride
+675.png,Ritch,Fexofenadine Hydrochloride
+676.png,Ritch,Fexofenadine Hydrochloride
+677.png,Ritch,Fexofenadine Hydrochloride
+678.png,Ritch,Fexofenadine Hydrochloride
+679.png,Ritch,Fexofenadine Hydrochloride
+680.png,Rivotril,Clonazepam
+681.png,Rivotril,Clonazepam
+682.png,Rivotril,Clonazepam
+683.png,Rivotril,Clonazepam
+684.png,Rivotril,Clonazepam
+685.png,Rivotril,Clonazepam
+686.png,Rivotril,Clonazepam
+687.png,Rivotril,Clonazepam
+688.png,Rivotril,Clonazepam
+689.png,Rivotril,Clonazepam
+690.png,Romycin,Azithromycin Dihydrate (Ophthalmic)
+691.png,Romycin,Azithromycin Dihydrate (Ophthalmic)
+692.png,Romycin,Azithromycin Dihydrate (Ophthalmic)
+693.png,Romycin,Azithromycin Dihydrate (Ophthalmic)
+694.png,Romycin,Azithromycin Dihydrate (Ophthalmic)
+695.png,Romycin,Azithromycin Dihydrate (Ophthalmic)
+696.png,Romycin,Azithromycin Dihydrate (Ophthalmic)
+697.png,Romycin,Azithromycin Dihydrate (Ophthalmic)
+698.png,Romycin,Azithromycin Dihydrate (Ophthalmic)
+699.png,Romycin,Azithromycin Dihydrate (Ophthalmic)
+700.png,Rozith,Azithromycin Dihydrate
+701.png,Rozith,Azithromycin Dihydrate
+702.png,Rozith,Azithromycin Dihydrate
+703.png,Rozith,Azithromycin Dihydrate
+704.png,Rozith,Azithromycin Dihydrate
+705.png,Rozith,Azithromycin Dihydrate
+706.png,Rozith,Azithromycin Dihydrate
+707.png,Rozith,Azithromycin Dihydrate
+708.png,Rozith,Azithromycin Dihydrate
+709.png,Rozith,Azithromycin Dihydrate
+710.png,Sergel,Esomeprazole
+711.png,Sergel,Esomeprazole
+712.png,Sergel,Esomeprazole
+713.png,Sergel,Esomeprazole
+714.png,Sergel,Esomeprazole
+715.png,Sergel,Esomeprazole
+716.png,Sergel,Esomeprazole
+717.png,Sergel,Esomeprazole
+718.png,Sergel,Esomeprazole
+719.png,Sergel,Esomeprazole
+720.png,Tamen,Paracetamol
+721.png,Tamen,Paracetamol
+722.png,Tamen,Paracetamol
+723.png,Tamen,Paracetamol
+724.png,Tamen,Paracetamol
+725.png,Tamen,Paracetamol
+726.png,Tamen,Paracetamol
+727.png,Tamen,Paracetamol
+728.png,Tamen,Paracetamol
+729.png,Tamen,Paracetamol
+730.png,Telfast,Fexofenadine Hydrochloride
+731.png,Telfast,Fexofenadine Hydrochloride
+732.png,Telfast,Fexofenadine Hydrochloride
+733.png,Telfast,Fexofenadine Hydrochloride
+734.png,Telfast,Fexofenadine Hydrochloride
+735.png,Telfast,Fexofenadine Hydrochloride
+736.png,Telfast,Fexofenadine Hydrochloride
+737.png,Telfast,Fexofenadine Hydrochloride
+738.png,Telfast,Fexofenadine Hydrochloride
+739.png,Telfast,Fexofenadine Hydrochloride
+740.png,Tridosil,Azithromycin Dihydrate
+741.png,Tridosil,Azithromycin Dihydrate
+742.png,Tridosil,Azithromycin Dihydrate
+743.png,Tridosil,Azithromycin Dihydrate
+744.png,Tridosil,Azithromycin Dihydrate
+745.png,Tridosil,Azithromycin Dihydrate
+746.png,Tridosil,Azithromycin Dihydrate
+747.png,Tridosil,Azithromycin Dihydrate
+748.png,Tridosil,Azithromycin Dihydrate
+749.png,Tridosil,Azithromycin Dihydrate
+750.png,Trilock,Montelukast Sodium
+751.png,Trilock,Montelukast Sodium
+752.png,Trilock,Montelukast Sodium
+753.png,Trilock,Montelukast Sodium
+754.png,Trilock,Montelukast Sodium
+755.png,Trilock,Montelukast Sodium
+756.png,Trilock,Montelukast Sodium
+757.png,Trilock,Montelukast Sodium
+758.png,Trilock,Montelukast Sodium
+759.png,Trilock,Montelukast Sodium
+760.png,Vifas,Fexofenadine Hydrochloride
+761.png,Vifas,Fexofenadine Hydrochloride
+762.png,Vifas,Fexofenadine Hydrochloride
+763.png,Vifas,Fexofenadine Hydrochloride
+764.png,Vifas,Fexofenadine Hydrochloride
+765.png,Vifas,Fexofenadine Hydrochloride
+766.png,Vifas,Fexofenadine Hydrochloride
+767.png,Vifas,Fexofenadine Hydrochloride
+768.png,Vifas,Fexofenadine Hydrochloride
+769.png,Vifas,Fexofenadine Hydrochloride
+770.png,Zithrin,Azithromycin Dihydrate
+771.png,Zithrin,Azithromycin Dihydrate
+772.png,Zithrin,Azithromycin Dihydrate
+773.png,Zithrin,Azithromycin Dihydrate
+774.png,Zithrin,Azithromycin Dihydrate
+775.png,Zithrin,Azithromycin Dihydrate
+776.png,Zithrin,Azithromycin Dihydrate
+777.png,Zithrin,Azithromycin Dihydrate
+778.png,Zithrin,Azithromycin Dihydrate
+779.png,Zithrin,Azithromycin Dihydrate
